@@ -16,6 +16,7 @@ Projeto criado durante a semana next level da Rocket Seat.
 # Implementações:
 <li>Sistema de nível ao completar os desafios</li>
 <li>Notificação ao completar os desafios (obs: parece não ser compativel com firefox)  </li>
+<li>Cookies para salvar seu progresso na aplicação(nível, desafios completados, experiencia atual etc) </li>
 <img src="https://i.imgur.com/ZdsHkMq.png">
 
 # Como executar:
