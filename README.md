@@ -1,5 +1,8 @@
 ## pomodoro-app-demo
 
+Você pode experimentar a demo usando este link: 
+https://pomodoro-app-andrewdvdotjs.vercel.app/
+
 Pomodo web app
 
 <img src="https://i.imgur.com/Y5MZEo9.png">
