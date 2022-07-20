@@ -21,6 +21,7 @@ Projeto criado durante a semana next level da Rocket Seat.
 <li>Notificação ao completar os desafios (obs: parece não ser compativel com firefox)  </li>
 <li>Cookies para salvar seu progresso na aplicação(nível, desafios completados, experiencia atual etc) </li>
 <img src="https://i.imgur.com/ZdsHkMq.png">
+<img src="https://i.imgur.com/2P9cOqO.png">
 
 # Como executar:
     Clone o repositório
